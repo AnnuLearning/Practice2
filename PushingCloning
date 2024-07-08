@@ -1,0 +1,9 @@
+Steps to push local folder to git-   gitb init
+git status
+git add File name
+git commit -m "Message"
+git remote add origin RepoURL
+git push -u Branch name
+
+Steps to clone repo from git to local-
+git clone repoURL
